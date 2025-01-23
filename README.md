@@ -154,11 +154,47 @@
 </details>
 
 <details>
-  <summary>Quote</summary>
+  <summary>Prominent Projects</summary>
   <br>
   <blockquote>
-    “A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are.”
-    <br><strong>Mr. Robot - Elliot Alderson</strong>
+Bureau of Indian Standards Awareness Platform
+Dec 2024 - Jan 2025
+Created a platform with interactive games and quizzes using Three.js and WebGL to spread BIS awareness.
+Deployed here: [BIS World](https://bisworld.netlify.app/)
+Skills: JavaScript, Node.js, Express.js, Three.js, WebGL
+
+Aura+
+Sep 2024 - Dec 2024
+A mental health platform for the physically disabled with an AI chatbot, mood analysis using LLMs, sign language-to-text conversion, and immersive 3D environments.
+GitHub: [Aura+](https://github.com/Akshit222/Aura)
+Skills: JavaScript, Python, React.js, MongoDB, Node.js, Express.js
+
+MultiBiometric Authentication
+Aug 2024
+A three-level authentication system combining face, voice, and dynamic prompts to counter deep fake software.
+GitHub: [MultiBiometricAuth](https://github.com/Akshit222/MultiBiometricAuthentication)
+Skills: JavaScript, Python, MongoDB, Node.js, Express.js, Flask
+
+Facial Recognition Model
+Jul 2024
+A face recognition model with an intuitive UI built in JavaScript.
+Deployed here: [Face Auth Demo](https://face-auth-demo.netlify.app/)
+Skills: JavaScript, React.js
+
+Campus Connect
+Jun 2024
+Centralized platform scraping campus event details using Instagram Graph API and web scraping techniques.
+Skills: React.js, JavaScript, Instagram Graph API
+
+Voice Recognition Model
+Jun 2024
+A Python-based model using librosa to identify speakers based on recorded voices.
+Skills: Python, librosa
+
+Real-Time Chat App
+May 2024
+A real-time chat simulation app with message sending and receiving capabilities built with MERN Stack.
+Skills: JavaScript, React.js, Node.js, Express.js, MongoDB
   </blockquote>
 </details>
 
