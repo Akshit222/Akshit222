@@ -67,6 +67,7 @@ Demo Vid- https://www.youtube.com/watch?v=Vb-8Ii7acao
 - Integrated AI-based sentiment analysis and conversational support system
 
 Tech: Python, MediaPipe, TensorFlow.js, React, Node.js
+
 ---
 
 ### BIS Interactive Awareness Platform
