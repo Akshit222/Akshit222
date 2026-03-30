@@ -31,7 +31,7 @@ Interested in Distributed Systems, GenAI Systems, and Scalable Backend Architect
 LLM-powered system for parsing PDFs/Excels and converting natural language queries into SQL.  
 Repository: https://github.com/Akshit222/Context-Aware-SQL-Analytics-Intelligent-Ingestion-Querying .
 
-Live Demo - https://www.youtube.com/watch?v=5Ied6-Ck5FE
+Demo Vid - https://www.youtube.com/watch?v=5Ied6-Ck5FE
 
 - Built schema inference and structured extraction pipeline
 - Designed semantic table matching using embeddings (ChromaDB)
@@ -44,7 +44,7 @@ Tech: Python, LangChain, ChromaDB, MySQL, Gemini API
 ### Large-Scale API Monitoring and Prediction System
 Repository: https://github.com/Akshit222/Large-Scale-API-Handling-and-Predictions .
 
-Live Demo - https://youtu.be/9pCFwOZm7NM
+Demo Vid- https://youtu.be/9pCFwOZm7NM
 
 - Processed API logs for anomaly detection and failure prediction
 - Built ELK pipeline (Filebeat → Logstash → Elasticsearch → Kibana)
@@ -58,7 +58,7 @@ Tech: Python, ELK Stack, Docker
 ### NeuroNav – Touchless Web Navigation System
 Repository: https://github.com/Akshit222/NeuroNav .
 
-Live Demo - https://www.youtube.com/watch?v=Vb-8Ii7acao
+Demo Vid- https://www.youtube.com/watch?v=Vb-8Ii7acao
 
 
 - Built a touchless navigation system for motor-disabled users
@@ -68,6 +68,7 @@ Live Demo - https://www.youtube.com/watch?v=Vb-8Ii7acao
 
 Tech: Python, MediaPipe, TensorFlow.js, React, Node.js
 ---
+
 ### BIS Interactive Awareness Platform
 Deployed: https://bisworld.netlify.app/
 
