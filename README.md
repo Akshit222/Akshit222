@@ -57,7 +57,7 @@ Tech: Python, ELK Stack, Docker
 ### NeuroNav – Touchless Web Navigation System
 Repository: https://github.com/Akshit222/NeuroNav .
 
-Live Demo - youtube.com/watch?si=TlNhTVfocouSptVw&v=Vb-8Ii7acao&feature=youtu.be&themeRefresh=1 . 
+Live Demo - youtube.com/watch?si=TlNhTVfocouSptVw&v=Vb-8Ii7acao&feature=youtu.be&themeRefresh=1 
 
 
 - Built a touchless navigation system for motor-disabled users
