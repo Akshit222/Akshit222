@@ -1,253 +1,82 @@
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=Akshit222&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+# Hi, I'm Akshit Bhatt
 
-<div align="center">
+Backend & Systems-Focused Software Engineer  
+Interested in Distributed Systems, GenAI Systems, and Scalable Backend Architecture  
 
+---
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+## 🧠 What I Do
+- Build **end-to-end backend systems** (API → DB → inference → UI integration)
+- Work with **LLMs + structured data pipelines**
+- Design **scalable and observable systems** (ELK, Docker, etc.)
+- Strong focus on **problem solving (DSA + systems thinking)**
 
-<details>
-<summary>Open profile</summary>
+---
 
-<br>
-<div>
-  <div align=center>
-  </div>
-  <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Akshit;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Engineer;Backend+and+iOS+Developer;CS2+and+Football+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
-  </div>
-</div>
+## 🏆 Highlights
+- 🥇 1st Place – Hacknight (₹25,000)
+- 🥈 Runner-Up – HackZ (₹50,000)
+- 🏁 Top 8 / 5000+ – Barclays Hack-O-Hire
+- 💼 Incoming Barclays Summer Intern (2026)
+- 🧪 Research Intern – Samsung PRISM (GenAI Systems)
 
-<details>
-<summary>About me</summary>
+---
 
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
+## 🚀 Featured Projects
 
-<div align="left">
+### 🔹 GenAI Knowledge Store (Samsung PRISM)
+LLM-powered system for parsing PDFs/Excels and converting natural language queries into SQL.
 
-```js
-/**
- * Represents me.
- *
- * @constructor
- * @param {string} location - Noida,UP, India.
- * @param {string} languagues - English, Hindi.
- * @param {string} jobTitle - Software Engineer.
- * @param {string} specialization - Building full-fledged Frontend and Backend systems using MERN Stack or Python(Django,Flask).
- * @param {string} interests - AI ML, Distributed Systems & problem-solving.
- * @param {string} hobbies - Reading, Gaming & Playing music.
- * @param {string} education - BTech Computer Engineering, SRMIST,KTR,Chennai.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
- *
- * @throws {Punch} To any and all bugs.
- *
- * @returns {Object} Akshit.
- */
-```
+- Built schema inference + structured extraction pipeline
+- Designed semantic table matching using embeddings (ChromaDB)
+- Implemented NL → SQL → Answer pipeline
 
-</div>
+**Tech:** Python, LangChain, ChromaDB, MySQL, Gemini API
 
-</details>
+---
 
-<details>
-<summary>Tools</summary>
-<div>
-  <p style="display: inline-block;" align="center">
-    <kbd>
-      <kbd>Programming Languages</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" title="C++" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C"/>
-    </kbd>
-    <kbd>
-      <kbd>Back-end</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" title="Express Js"/>
-      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg" alt="django" title="Django"/>
-      <img width="30px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest" title="REST API"/>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="Websocket"/>
-    </kbd>
-    <kbd>
-      <kbd>Front-end</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML"/> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" title="CSS"/>  
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" title="Reactjs"/>
-    </kbd>
-    <kbd>
-      <kbd>Database</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="mysql" title="MySQL"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" title="Postgres SQL"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongodb" title="Mongo DB"/>
-    </kbd>
-    <br>
-    <br>
-    <kbd>
-      <kbd>Automation, Data Science & AI</kbd>
-      <br>
-      <br>
-      <img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ab742751-b55b-43d7-8f49-9a67e293f67c" alt="Puppeteer" title="Puppeteer"/>
-      <img width="30" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="Playwright" title="Playwright"/>
-      <img width="30" src="https://logodix.com/logo/2116220.jpg" alt="appium" title="Appium"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" title="Numpy"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas"/>
-      <img width="30px" src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="chatgpt" title="Chat GPT"/>
-      <img width="30px" src="https://seeklogo.com/images/S/stability-ai-logo-39727290FE-seeklogo.com.png" alt="stablediffusion" title="Stable Diffusion"/>
-    </kbd>
-    <kbd>
-      <kbd>Operating System, Networking & Deployment</kbd>
-      <br>
-      <br>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/>
-	    <img width="30" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/>
-	    <img width="30" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
-	    <img width="30" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/>
-	    <img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" title="git" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" title="Docker"/>
-      <img width="30px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="githubactions" title="Github Actions"/>
-    </kbd>
-    <kbd>
-      <kbd>Terminal Scripts</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" title="bash"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" title="Vim"/>
-    </kbd>
-    <kbd>
-      <kbd>Tools</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"  alt="jupiter" title="Jupiter"/>
-  </kbd>
-  </p>
-</div>
-</details>
+### 🔹 Large-Scale API Monitoring & Prediction System
+- Processed API logs for anomaly detection & failure prediction
+- Built ELK pipeline (Filebeat → Logstash → Elasticsearch → Kibana)
+- Containerized system with Docker
 
-<details>
-  <summary>Open Source Contributions</summary>
-  <br>
-  <ul>
-<!--     <li><strong>MDN Docs - Official JavaScript Docs:</strong> Contributed to improving and maintaining the official JavaScript documentation on MDN Web Docs.</li>
-    <li><strong>Pinterest - Pymemcache:</strong> Made contributions to the Pymemcache project on Pinterest, an efficient Python client for the memcached caching system.</li>
-    <li><strong>The Algorithms - JavaScript and C++:</strong> Contributed to The Algorithms repository, particularly in JavaScript and C++ implementations of various algorithms and data structures.</li>
-   <li><strong>True Sparrow - NftorNot.com, WhisperChain.xyz, AI SalesSparrow:</strong> Led the development of projects from inception to production under True Sparrow.</li> -->
-  </ul>
-</details>
+**Tech:** Python, ELK Stack, Docker
 
-<details>
-  <summary>Prominent Projects</summary>
-  <br>
-  <blockquote>
-Bureau of Indian Standards Awareness Platform
-Dec 2024 - Jan 2025
-Created a platform with interactive games and quizzes using Three.js and WebGL to spread BIS awareness.
-Deployed here: [BIS World](https://bisworld.netlify.app/)
-Skills: JavaScript, Node.js, Express.js, Three.js, WebGL
+---
 
-Aura+
-Sep 2024 - Dec 2024
-A mental health platform for the physically disabled with an AI chatbot, mood analysis using LLMs, sign language-to-text conversion, and immersive 3D environments.
-GitHub: [Aura+](https://github.com/Akshit222/Aura)
-Skills: JavaScript, Python, React.js, MongoDB, Node.js, Express.js
+### 🔹 Multi-Biometric Authentication System
+- Face + Voice + Dynamic prompts authentication
+- Designed to mitigate OTP-based fraud
+- Integrated real-time verification & anti-deepfake logic
 
-MultiBiometric Authentication
-Aug 2024
-A three-level authentication system combining face, voice, and dynamic prompts to counter deep fake software.
-GitHub: [MultiBiometricAuth](https://github.com/Akshit222/MultiBiometricAuthentication)
-Skills: JavaScript, Python, MongoDB, Node.js, Express.js, Flask
+**Tech:** Python, OpenCV, Librosa, React, Node.js
 
-Facial Recognition Model
-Jul 2024
-A face recognition model with an intuitive UI built in JavaScript.
-Deployed here: [Face Auth Demo](https://face-auth-demo.netlify.app/)
-Skills: JavaScript, React.js
+---
 
-Campus Connect
-Jun 2024
-Centralized platform scraping campus event details using Instagram Graph API and web scraping techniques.
-Skills: React.js, JavaScript, Instagram Graph API
+## 📊 Problem Solving
+- 600+ problems solved (LeetCode + others)
+- Codeforces: Pupil (1367)
 
-Voice Recognition Model
-Jun 2024
-A Python-based model using librosa to identify speakers based on recorded voices.
-Skills: Python, librosa
+---
 
-Real-Time Chat App
-May 2024
-A real-time chat simulation app with message sending and receiving capabilities built with MERN Stack.
-Skills: JavaScript, React.js, Node.js, Express.js, MongoDB
-  </blockquote>
-</details>
+## 🌍 Open Source
+- Cloudflare Workers SDK (Wrangler)  
+  → Added `--json` flag for R2 bucket info
 
-<details>
-  <summary>Free DOSE hit</summary>
-  <br>
-  <small><i>DOSE (dopamine, oxytocin, serotonin & endorphin), refresh page if dose was ineffective.</i></small>
-  <br>
-  <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
-</details>
+- FOSSASIA (Scrum Helper)  
+  → Commit classification system using regex + modular parser
 
-<details>
-<summary>What can I do for you?</summary>
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
+---
 
-[//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
+## ⚙️ Tech Stack
+**Languages:** C++, Python, JavaScript  
+**Backend:** Node.js, Express, Django  
+**Databases:** MySQL, MongoDB, PostgreSQL  
+**Systems:** Docker, ELK Stack  
+**AI/ML:** TensorFlow, LLM APIs, embeddings  
 
-## If u need to contact me
+---
 
-<p>Feel free to <a href="mailto:akshitbhattab@gmail.com">contact me by email</a> for any inquiries.</p>
-
-  </td>
-  <td width="50%" valign="top">
-
-## It's not perfect, isn't it?
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-<blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-<br><strong>– Elon Musk</strong></blockquote>
-
-  </td>
-  </tr>
-</table>
-</details>
-
-</details>
-
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
-
-</div>
-
-<div align=center>
- <a href="https://www.linkedin.com/in/akshit-bhatt-449703280/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-<a href="mailto:akshitbhattab@gmail.com?subject=Hi%20Akshit%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-<!-- <a href="https://leetcode.com/kk10-/" target="_blank"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="LeetCode" /></a> -->
-<a href="https://www.hackerrank.com/profile/akshitbhattab" target="_blank"><img width="100px" src="https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png" alt="HackerRank" /></a>
-<!-- <a href="https://steamcommunity.com/id/kk10-/" target="_blank"><img width="110px" alt="Steam" src="https://e7.pngegg.com/pngimages/768/845/png-clipart-brand-logo-product-design-font-steam-text-logo.png" /></a>
-</div> -->
-<a href="https://www.instagram.com/akshit___bhatt/" target="_blank">
-  <img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" />
-</a>
-
-------
+## 📫 Contact
+- Email: akshitbhattab@gmail.com
+- LinkedIn: https://linkedin.com/in/akshit-bhatt-449703280/
