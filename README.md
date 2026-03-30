@@ -67,11 +67,6 @@ Tech: Python, MediaPipe, TensorFlow.js, React, Node.js
 
 Tech: Python, OpenCV, Librosa, React, Node.js
 
----
-
-## Problem Solving
-- 600+ problems solved across platforms
-- Codeforces rating: 1367 (Pupil)
 
 ---
 
