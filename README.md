@@ -19,6 +19,7 @@ Interested in Distributed Systems, GenAI Systems, and Scalable Backend Architect
 - Research Project Intern – Samsung PRISM (GenAI Systems)
 - 1st Place – Hacknight (₹25,000)
 - Runner-Up – HackZ (₹50,000)
+- Top 8 BIS Hackathon for Bis Awareness
 - Hack of Duty 2nd Runner up
 - Hack Summit top 10 (10,000)
 
@@ -66,6 +67,18 @@ Live Demo - https://www.youtube.com/watch?v=Vb-8Ii7acao
 - Integrated AI-based sentiment analysis and conversational support system
 
 Tech: Python, MediaPipe, TensorFlow.js, React, Node.js
+---
+### BIS Interactive Awareness Platform
+Deployed: https://bisworld.netlify.app/
+
+Gamified web platform built for the BIS Hackathon to improve awareness of Bureau of Indian Standards certifications through interactive experiences and 3D environments.
+
+- Designed multiple interactive modules including games, quizzes, and simulations to educate users on identifying certified vs counterfeit products
+- Built 2D/3D interactive experiences using Three.js and custom animations for engagement-driven learning
+- Implemented scroll-based storytelling and real-time interaction systems using GSAP and Framer Motion
+- Developed modular React-based architecture with reusable UI components and smooth navigation
+
+Tech: React, Three.js, GSAP, Framer Motion, TailwindCSS
 
 ---
 
