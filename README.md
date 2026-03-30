@@ -5,78 +5,94 @@ Interested in Distributed Systems, GenAI Systems, and Scalable Backend Architect
 
 ---
 
-## 🧠 What I Do
-- Build **end-to-end backend systems** (API → DB → inference → UI integration)
-- Work with **LLMs + structured data pipelines**
-- Design **scalable and observable systems** (ELK, Docker, etc.)
-- Strong focus on **problem solving (DSA + systems thinking)**
+## What I Do
+- Build end-to-end backend systems (API → DB → inference → UI integration)
+- Work with LLMs and structured data pipelines
+- Design scalable and observable systems (ELK, Docker, etc.)
+- Strong focus on problem solving (DSA + systems thinking)
 
 ---
 
-## 🏆 Highlights
-- 🥇 1st Place – Hacknight (₹25,000)
-- 🥈 Runner-Up – HackZ (₹50,000)
-- 🏁 Top 8 / 5000+ – Barclays Hack-O-Hire
-- 💼 Incoming Barclays Summer Intern (2026)
-- 🧪 Research Intern – Samsung PRISM (GenAI Systems)
+## Highlights
+- 1st Place – Hacknight (₹25,000)
+- Runner-Up – HackZ (₹50,000)
+- Top 8 / 5000+ – Barclays Hack-O-Hire
+- Incoming Barclays Summer Intern (2026)
+- Research Intern – Samsung PRISM (GenAI Systems)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔹 GenAI Knowledge Store (Samsung PRISM)
-LLM-powered system for parsing PDFs/Excels and converting natural language queries into SQL.
+### GenAI Knowledge Store (Samsung PRISM)
+LLM-powered system for parsing PDFs/Excels and converting natural language queries into SQL.  
+Repository: https://github.com/Akshit222/Context-Aware-SQL-Analytics-Intelligent-Ingestion-Querying
 
-- Built schema inference + structured extraction pipeline
+- Built schema inference and structured extraction pipeline
 - Designed semantic table matching using embeddings (ChromaDB)
 - Implemented NL → SQL → Answer pipeline
 
-**Tech:** Python, LangChain, ChromaDB, MySQL, Gemini API
+Tech: Python, LangChain, ChromaDB, MySQL, Gemini API
 
 ---
 
-### 🔹 Large-Scale API Monitoring & Prediction System
-- Processed API logs for anomaly detection & failure prediction
+### Large-Scale API Monitoring and Prediction System
+Repository: https://github.com/Akshit222/Large-Scale-API-Handling-and-Predictions
+
+- Processed API logs for anomaly detection and failure prediction
 - Built ELK pipeline (Filebeat → Logstash → Elasticsearch → Kibana)
+- Designed ingestion and observability workflow for real-time monitoring
 - Containerized system with Docker
 
-**Tech:** Python, ELK Stack, Docker
+Tech: Python, ELK Stack, Docker
 
 ---
 
-### 🔹 Multi-Biometric Authentication System
-- Face + Voice + Dynamic prompts authentication
-- Designed to mitigate OTP-based fraud
-- Integrated real-time verification & anti-deepfake logic
+### NeuroNav – Touchless Web Navigation System
+Repository: https://github.com/Akshit222/NeuroNav
 
-**Tech:** Python, OpenCV, Librosa, React, Node.js
+- Built a touchless navigation system for motor-disabled users
+- Implemented gaze-based cursor control and blink-based interaction using MediaPipe Iris
+- Designed gesture-based command system using hand tracking
+- Integrated AI-based sentiment analysis and conversational support system
 
----
-
-## 📊 Problem Solving
-- 600+ problems solved (LeetCode + others)
-- Codeforces: Pupil (1367)
+Tech: Python, MediaPipe, TensorFlow.js, React, Node.js
 
 ---
 
-## 🌍 Open Source
+### Multi-Biometric Authentication System
+- Designed multi-factor authentication using face, voice, and dynamic prompts
+- Built system to mitigate OTP-based fraud and deepfake attacks
+- Implemented real-time verification pipeline with liveness checks
+
+Tech: Python, OpenCV, Librosa, React, Node.js
+
+---
+
+## Problem Solving
+- 600+ problems solved across platforms
+- Codeforces rating: 1367 (Pupil)
+
+---
+
+## Open Source
 - Cloudflare Workers SDK (Wrangler)  
-  → Added `--json` flag for R2 bucket info
+  Added --json flag for R2 bucket info (machine-readable output)
 
 - FOSSASIA (Scrum Helper)  
-  → Commit classification system using regex + modular parser
+  Built modular commit classification system using regex-based parsing
 
 ---
 
-## ⚙️ Tech Stack
-**Languages:** C++, Python, JavaScript  
-**Backend:** Node.js, Express, Django  
-**Databases:** MySQL, MongoDB, PostgreSQL  
-**Systems:** Docker, ELK Stack  
-**AI/ML:** TensorFlow, LLM APIs, embeddings  
+## Tech Stack
+Languages: C++, Python, JavaScript  
+Backend: Node.js, Express, Django  
+Databases: MySQL, MongoDB, PostgreSQL  
+Systems: Docker, ELK Stack  
+AI/ML: TensorFlow, LLM APIs, embeddings  
 
 ---
 
-## 📫 Contact
-- Email: akshitbhattab@gmail.com
-- LinkedIn: https://linkedin.com/in/akshit-bhatt-449703280/
+## Contact
+Email: akshitbhattab@gmail.com  
+LinkedIn: https://linkedin.com/in/akshit-bhatt-449703280/
