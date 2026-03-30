@@ -28,7 +28,8 @@ Interested in Distributed Systems, GenAI Systems, and Scalable Backend Architect
 
 ### Context Aware  (Samsung PRISM)
 LLM-powered system for parsing PDFs/Excels and converting natural language queries into SQL.  
-Repository: https://github.com/Akshit222/Context-Aware-SQL-Analytics-Intelligent-Ingestion-Querying
+Repository: https://github.com/Akshit222/Context-Aware-SQL-Analytics-Intelligent-Ingestion-Querying .
+
 Live Demo - https://www.youtube.com/watch?v=5Ied6-Ck5FE
 
 - Built schema inference and structured extraction pipeline
@@ -40,7 +41,8 @@ Tech: Python, LangChain, ChromaDB, MySQL, Gemini API
 ---
 
 ### Large-Scale API Monitoring and Prediction System
-Repository: https://github.com/Akshit222/Large-Scale-API-Handling-and-Predictions
+Repository: https://github.com/Akshit222/Large-Scale-API-Handling-and-Predictions .
+
 Live Demo - https://youtu.be/9pCFwOZm7NM
 
 - Processed API logs for anomaly detection and failure prediction
@@ -53,8 +55,10 @@ Tech: Python, ELK Stack, Docker
 ---
 
 ### NeuroNav – Touchless Web Navigation System
-Repository: https://github.com/Akshit222/NeuroNav
-Live Demo - youtube.com/watch?si=TlNhTVfocouSptVw&v=Vb-8Ii7acao&feature=youtu.be&themeRefresh=1
+Repository: https://github.com/Akshit222/NeuroNav .
+
+Live Demo - youtube.com/watch?si=TlNhTVfocouSptVw&v=Vb-8Ii7acao&feature=youtu.be&themeRefresh=1 . 
+
 
 - Built a touchless navigation system for motor-disabled users
 - Implemented gaze-based cursor control and blink-based interaction using MediaPipe Iris
