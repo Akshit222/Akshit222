@@ -21,7 +21,7 @@ Interested in Distributed Systems, GenAI Systems, and Scalable Backend Architect
 - Runner-Up – HackZ (₹50,000)
 - Top 8 BIS Hackathon for Bis Awareness
 - Hack of Duty 2nd Runner up
-- Hack Summit top 10 (10,000)
+- Hack Summit top 10 (₹10,000)
 
 ---
 
